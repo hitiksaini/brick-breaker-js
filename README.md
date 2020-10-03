@@ -7,3 +7,4 @@ Brick Breaker is a game in which the player must smash a wall of bricks by defle
 ### Note
 I have not customised it for mobile screens for now and currently it is for PC, other than this if you find any bug you can reach out to me or just create a pull request for the same.
 
+<b> [Click](https://hitiksaini.github.io/Brick-Breaker-Game/) to play </b>
